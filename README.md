@@ -9,6 +9,9 @@ There were some key design considerations:
 * Use low cost shelving so that it can be modified quickly and replaced easily if necessary
 * Stand free of the table to minimise vibration when removing top access panels
 * Allow removal of side panels when necessary, but not in a way to make too easy (to prevent routine disabling of a key safety feature)
+* Allow variable height from table to upper covers. This can be changed as required (though will take some disassembly).
+
+On the last point - our optical setup means that the default height on the covers requires some lab members to use steps when accessing parts of the table. We recommend thinking about what height your sides actually need to be placed at!
 
 The file TableSurroundConstructionHelp.pdf provides a construction schematic, and the original Sketchup design file is TableWithSurround.skp. Note that this is in multiple layers containing different classes of components. The colour coding identifies identical parts (by length or type)
 
