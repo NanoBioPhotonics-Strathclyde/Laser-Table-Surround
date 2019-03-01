@@ -1,0 +1,73 @@
+Cutlist — Cut list for profile panel holder pieces
+
+Generating the following components:
+  [1] ? 1590mm (x4)
+  [2] ? 400mm (x24)
+  [3] ? 735mm (x26)
+  [4] ? 770mm (x12)
+  [5] ? 805mm (x2)
+
+The following stock board lengths are available:
+  2000mm
+
+Number after each row indicates which of the numbererd lengths above will be cut
+e.g. 323 is 2xPiece[3], 1xPiece[2]
+The ordering is the result of the algorithm to generate the list and does not
+need to be followed for any individual cut row
+
+Results:
+2000mm board = [2] 400mm + [1] 1590mm + 1mm cut losses + 9mm excess
+21
+2000mm board = [2] 400mm + [1] 1590mm + 1mm cut losses + 9mm excess
+21
+2000mm board = [2] 400mm + [1] 1590mm + 1mm cut losses + 9mm excess
+21
+2000mm board = [2] 400mm + [1] 1590mm + 1mm cut losses + 9mm excess
+21
+2000mm board = [5] 805mm + [5] 805mm + 1mm cut losses + 389mm excess
+55
+2000mm board = [4] 770mm + [2] 400mm + [4] 770mm + 1.5mm cut losses + 58.5mm excess
+424
+2000mm board = [4] 770mm + [2] 400mm + [4] 770mm + 1.5mm cut losses + 58.5mm excess
+424
+2000mm board = [4] 770mm + [2] 400mm + [4] 770mm + 1.5mm cut losses + 58.5mm excess
+424
+2000mm board = [4] 770mm + [2] 400mm + [4] 770mm + 1.5mm cut losses + 58.5mm excess
+424
+2000mm board = [4] 770mm + [2] 400mm + [4] 770mm + 1.5mm cut losses + 58.5mm excess
+424
+2000mm board = [4] 770mm + [2] 400mm + [4] 770mm + 1.5mm cut losses + 58.5mm excess
+424
+2000mm board = [3] 735mm + [2] 400mm + [3] 735mm + 1.5mm cut losses + 128.5mm excess
+323
+2000mm board = [3] 735mm + [2] 400mm + [3] 735mm + 1.5mm cut losses + 128.5mm excess
+323
+2000mm board = [3] 735mm + [2] 400mm + [3] 735mm + 1.5mm cut losses + 128.5mm excess
+323
+2000mm board = [3] 735mm + [2] 400mm + [3] 735mm + 1.5mm cut losses + 128.5mm excess
+323
+2000mm board = [3] 735mm + [2] 400mm + [3] 735mm + 1.5mm cut losses + 128.5mm excess
+323
+2000mm board = [3] 735mm + [2] 400mm + [3] 735mm + 1.5mm cut losses + 128.5mm excess
+323
+2000mm board = [3] 735mm + [2] 400mm + [3] 735mm + 1.5mm cut losses + 128.5mm excess
+323
+2000mm board = [3] 735mm + [2] 400mm + [3] 735mm + 1.5mm cut losses + 128.5mm excess
+323
+2000mm board = [3] 735mm + [2] 400mm + [3] 735mm + 1.5mm cut losses + 128.5mm excess
+323
+2000mm board = [3] 735mm + [2] 400mm + [3] 735mm + 1.5mm cut losses + 128.5mm excess
+323
+2000mm board = [3] 735mm + [2] 400mm + [3] 735mm + 1.5mm cut losses + 128.5mm excess
+323
+2000mm board = [3] 735mm + [2] 400mm + [3] 735mm + 1.5mm cut losses + 128.5mm excess
+323
+2000mm board = [3] 735mm + [2] 400mm + [3] 735mm + 1.5mm cut losses + 128.5mm excess
+323
+2000mm board = [2] 400mm + 0.5mm cut losses + 1599.5mm excess
+2
+
+
+Board Count:
+  25x 2000mm (Standard mm length)
+Generated at http://jonathan.overholt.org/projects/cutlist
